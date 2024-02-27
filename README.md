@@ -1,3 +1,5 @@
+APPLICATION LINK: https://wordembedding.streamlit.app/
+
 Word Embeddings Visualization
 This is a Streamlit web application that generates and visualizes word embeddings using Word2Vec. It allows users to input text directly, extract text from a hyperlink, or upload a text document. The application provides insights into the semantic relationships between words in the input text.
 
